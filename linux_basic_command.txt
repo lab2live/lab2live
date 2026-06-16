@@ -1,0 +1,26 @@
+Linux Basic commands  
+1. File & Directory Management:
+
+pwd Show current directory
+ls List files and directories
+cd Change directory
+mkdir Create directory
+rmdir Remove empty directory
+touch Create file
+cp Copy files/directories
+mv Move or rename files
+rm Delete files/directories
+tree Display directory structure
+
+Linux Basic Commands | Part2:
+2. File Viewing & Editing
+
+cat – View File Content
+head – First 10 Lines
+tail – Last 10 Lines
+tail -f – Monitor Logs
+grep – Search Text
+vim – Edit File
+
+Lab2Live:– Learn By Doing.
+Youtube:- https://www.youtube.com/@Lab2Live
